@@ -1,0 +1,9 @@
+name: trex
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pandas
+  - openpyxl
+  - matplotlib
+  - python-dateutil

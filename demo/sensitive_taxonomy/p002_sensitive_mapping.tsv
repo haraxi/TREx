@@ -1,0 +1,4 @@
+Sample_ID	accession	reference_length	covered_bases	reads_mapped	avg_coverage	PoolID
+SYN71	NC_999999.9	13500	11992	216	9.98	p002
+SYN72	NC_999999.9	13500	11024	166	10.51	p002
+SYN73	NC_999999.9	13500	12363	218	11.94	p002

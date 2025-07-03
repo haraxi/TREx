@@ -1,0 +1,4 @@
+sample_ID	accession	taxid	kingdom	phylum	class	order	family	genus	species	subspecies	strain	sequence_name	RPKMF	reference_length	covered_bases	reads_aligned	mean_coverage	total_filtered_reads_in_sample
+SYN71.p002	NC_999999.9	999999	Viruses	Negarnaviricota	Monjiviricetes	Articulavirales	Orthomyxoviridae	Influenza A virus	Influenza A virus (A/Human/Example/2025)		H1N1	Synthetic Influenza	17.20354263951804	13500	11992	216	9.98	930041
+SYN72.p002	NC_999999.9	999999	Viruses	Negarnaviricota	Monjiviricetes	Articulavirales	Orthomyxoviridae	Influenza A virus	Influenza A virus (A/Human/Example/2025)		H1N1	Synthetic Influenza	12.061779124773327	13500	11024	166	10.51	1019443
+SYN73.p002	NC_999999.9	999999	Viruses	Negarnaviricota	Monjiviricetes	Articulavirales	Orthomyxoviridae	Influenza A virus	Influenza A virus (A/Human/Example/2025)		H1N1	Synthetic Influenza	16.490541256251703	13500	12363	218	11.94	979237

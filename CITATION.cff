@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "TREx: Taxonomic-based Relative-abundance Extractor"
+version: 0.1
+message: "If you use TREx in your research, please cite this software metadata file."
+authors:
+  - family-names: Clark
+    given-names: Justin R.
+    affiliation: Baylor College of Medicine
+    orcid: https://orcid.org/0000-0003-1590-6828
+date-released: 2025-07-02
+repository-code: https://github.com/TAILOR-Lab/TREx
+license: MIT
+# doi: 10.5281/zenodo.XXXXX  # Uncomment and update after Zenodo deposit
