@@ -32,7 +32,6 @@ build/
 
 # Output folders
 outputs/
-*.xlsx
 *.png
 *.svg
 
