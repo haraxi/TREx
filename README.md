@@ -144,7 +144,6 @@ This software is released under the [MIT License](LICENSE). You are free to use,
 ## Related Tools
 
 - [`EsViritu`](https://github.com/cmmr/EsViritu): Metagenomic viral read classifier
-- Other custom pipelines for read classification, phylogenetics, and visualizations
 
 ---
 
