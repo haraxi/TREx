@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="TREx_icon.png" alt="TREx icon" width="125"/>
+  <img src="TREx_icon.png" alt="TREx: Taxonomic-based Relative-abundance Extractor" width="200"/>
 </p>
 
 # TREx: Taxonomic-based Relative-abundance Extractor
