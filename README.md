@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="TREx_icon.png" alt="TREx icon" width="125"/>
+</p>
+
 # TREx: Taxonomic-based Relative-abundance Extractor
 
 **TREx** is a Python-based command-line tool for extracting, filtering, and aggregating read-level abundance metrics (e.g., RPKMF) from [`EsViritu`](https://github.com/cmmr/EsViritu) metagenomic profiling outputs. It supports lineage-based filtering, metadata joins, temporal aggregation, and figure-ready Excel and plot outputs.
